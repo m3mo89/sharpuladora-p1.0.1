@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Sharpuladora\Sharpuladora.Droid\Sharpuladora.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.TA23701FWK" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sharpuladora\Sharpuladora\Pages\CalcPage.cs">
+    <Files>
+      <File FileName="Sharpuladora\Sharpuladora\App.cs" Line="13" Column="10" />
+      <File FileName="Sharpuladora\Sharpuladora\Pages\CalcPage.cs" Line="6" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

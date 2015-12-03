@@ -1,0 +1,16 @@
+C:\Users\Guillermo Tinoco\Source\Repos\sharpuladora-p1.0.1\start\Sharpuladora\Sharpuladora\bin\Debug\Sharpuladora.dll
+C:\Users\Guillermo Tinoco\Source\Repos\sharpuladora-p1.0.1\start\Sharpuladora\Sharpuladora\bin\Debug\Sharpuladora.pdb
+C:\Users\Guillermo Tinoco\Source\Repos\sharpuladora-p1.0.1\start\Sharpuladora\Sharpuladora\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\Guillermo Tinoco\Source\Repos\sharpuladora-p1.0.1\start\Sharpuladora\Sharpuladora\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\Guillermo Tinoco\Source\Repos\sharpuladora-p1.0.1\start\Sharpuladora\Sharpuladora\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\Guillermo Tinoco\Source\Repos\sharpuladora-p1.0.1\start\Sharpuladora\Sharpuladora\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\Guillermo Tinoco\Source\Repos\sharpuladora-p1.0.1\start\Sharpuladora\Sharpuladora\obj\Debug\Sharpuladora.dll
+C:\Users\Guillermo Tinoco\Source\Repos\sharpuladora-p1.0.1\start\Sharpuladora\Sharpuladora\obj\Debug\Sharpuladora.pdb
+C:\Users\Guillermo Tinoco\Source\Repos\sharpuladora-p1.0.1\start\Sharpuladora\Sharpuladora\obj\Debug\Sharpuladora.dll.mdb
+C:\Users\Guillermo Tinoco\Source\Repos\sharpuladora-p1.0.1\start\Sharpuladora\Sharpuladora\bin\Debug\Sharpuladora.dll.mdb
+C:\Users\Guillermo Tinoco\Source\Repos\sharpuladora-p1.0.1\start\Sharpuladora\Sharpuladora\obj\Debug\Sharpuladora.dll.mdb
+C:\Users\Guillermo Tinoco\Source\Repos\sharpuladora-p1.0.1\start\Sharpuladora\Sharpuladora\bin\Debug\Sharpuladora.dll.mdb
+C:\Users\Guillermo Tinoco\Source\Repos\sharpuladora-p1.0.1\start\Sharpuladora\Sharpuladora\obj\Debug\Sharpuladora.dll.mdb
+C:\Users\Guillermo Tinoco\Source\Repos\sharpuladora-p1.0.1\start\Sharpuladora\Sharpuladora\bin\Debug\Sharpuladora.dll.mdb
+C:\Users\Guillermo Tinoco\Source\Repos\sharpuladora-p1.0.1\start\Sharpuladora\Sharpuladora\obj\Debug\Sharpuladora.dll.mdb
+C:\Users\Guillermo Tinoco\Source\Repos\sharpuladora-p1.0.1\start\Sharpuladora\Sharpuladora\bin\Debug\Sharpuladora.dll.mdb
